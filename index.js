@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var JSV = require('JSV').JSV
-  , each = require('each')
-  , bind = require('bind');
+var JSV = require('mikanda-JSV').JSV
+  , each = require('component-each')
+  , bind = require('component-bind');
 
 /**
  * Module exports.
